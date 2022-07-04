@@ -1,0 +1,9 @@
+.tituloNosotros{
+    @extend %tituloNosotros;
+}
+.parrafoNosotros{
+    @extend %parrafoNosotros;
+}
+.verMas{
+    @include btn-verMas (#366fb1,white);
+}

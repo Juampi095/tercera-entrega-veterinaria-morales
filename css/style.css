@@ -1,0 +1,95 @@
+/***********NAV *********/
+.navbar {
+  background-color: #366fb1; }
+
+.nav-link {
+  color: white;
+  border: #c9d886 solid 2px;
+  border-radius: 130px; }
+
+.nav-link:hover {
+  color: bisque; }
+
+.nav-link.active {
+  color: white !important;
+  border: #c9d886 solid 2px;
+  border-radius: 130px; }
+
+.nav-link.active:hover {
+  color: bisque; }
+
+.navbar-brand {
+  color: white; }
+
+.navbar-brand:hover {
+  color: bisque;
+  transition: all;
+  transform: scale(1.2); }
+
+.btn {
+  color: white;
+  background-color: #ffe4c42d;
+  border-radius: 100px; }
+
+.btn:hover {
+  background-color: #d87753c9 !important;
+  transition: .3s; }
+
+.form-control:hover {
+  background-color: #dddadac9;
+  transform: scale(1.02);
+  transition: .3s; }
+
+/*******CONTENIDO********/
+.tituloUno {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 40px;
+  color: #366fb1; }
+
+.titulosIndex {
+  font-size: 25px;
+  color: #366fb1; }
+
+.imagenInicio {
+  position: relative;
+  left: 60rem;
+  bottom: 3.5rem; }
+
+/*******SLIDER*******/
+.carousel-inner {
+  width: 25%;
+  margin: 0 auto; }
+
+.footer {
+  font-size: 2rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center; }
+
+.footer i {
+  color: #366fb1;
+  padding: 20px;
+  font-size: 20px;
+  border: #2291a0b9 1px solid;
+  border-radius: 100%; }
+
+.tituloNosotros {
+  color: #366fb1;
+  margin-top: 1rem;
+  font-size: 1.9rem; }
+
+.parrafoNosotros {
+  max-width: 50vw;
+  font-size: 18px;
+  font-weight: bold;
+  border: #366fb1 3px groove;
+  border-radius: 15px; }
+
+.verMas {
+  padding: 1rem;
+  background-color: #366fb1;
+  color: white;
+  font-size: 12px; }
