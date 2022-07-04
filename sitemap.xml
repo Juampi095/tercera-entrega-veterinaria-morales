@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/issues</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/pulls</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/actions</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/projects?type=beta</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/security</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/79fd50d377721f7d9e95a8baa931389b071c3f3b</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/.gitignore</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/Cambios.txt</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/Como%20Compilar%20en%20SASS.txt</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/contacto.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/especialidades.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/examenes-complementarios.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/index.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/nosotros.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/package-lock.json</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/package.json</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/Main/servicios-generales.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/releases</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/compare</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/projects?type=classic</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/security/policy</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/security/advisories</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/3b835c4fc8c1f63068e465f9c349f414b533417a</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/.gitignore</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/find/Main</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/contacto.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/especialidades.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/examenes-complementarios.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/index.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/nosotros.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/package-lock.json</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/package.json</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/blob/79fd50d377721f7d9e95a8baa931389b071c3f3b/servicios-generales.html</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels?sort=name-asc</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels?sort=name-desc</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels?sort=count-desc</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels?sort=count-asc</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/bug</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/documentation</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/duplicate</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/enhancement</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/good%20first%20issue</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/help%20wanted</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/invalid</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/question</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/labels/wontfix</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/security/advisories?state=published</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/849da733a54d6cc7ac617b9358de312eb5062f06</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/find/79fd50d377721f7d9e95a8baa931389b071c3f3b</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/f1a8923f8a755e0088d668afb55f3a712161ff9f</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/93ce81ae13cfdac2aff4829fec580dc3d3ebd719</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/ddc2742e91632a672f72a6b266a487413c0ae3b2</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/a647556de94975bb3601935288c477ace5dae9f8</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/aad63bc1f9d508cd188a933787d9d88362415187</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/5f22fdf348c11cb1f743a6de64030775360cc5b3</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/4edb5c7d38a560a5e36725ae049402031e69a9aa</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/dbd82f3afa0458c2348f40f298e8e08d98b216c7</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/2df18ee0b92d79cfac771f7f3886a70ca59b8ab0</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/f5dde6e8faaa88d56ab8d539e4d0d8786b679383</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/ddeb90d0052bd34a17bfe5669523bc07e1256c3a</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/d446dc0eb101031ed05ebd7c862b25035836a122</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/fd488d024708e01b11ad2d698376fa03493b102a</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/3e70351be7085e3811564faacd1f4d33e104f4aa</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/0c8d358d11ae12ef011e03978de7f0cf33216e7c</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/47b1ad7c3c8b009183d7a301a03738bc510da36d</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/16807fc24a175fdada3ebc7805d1df4446036539</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/8d3266987ed4415df9513656bb7a619c0ecee56f</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/0ce12c0f36d8c29c012131e205e58de06704586e</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/d3f0574c1b1c3c75106d8cfa4b650d25ccc9e162</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/bb6fc8cd708a92b30b3b1d17659df4d6b573f7a6</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/a345d826437c65aba603a346ef3f0231754ef161</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/2df8b60de737617bf6df8e8ff77f05687548af71</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/dffa6cf4c373c8202eb9972891cdba727fbba473</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/a5bd8455b7a73e1c97c3d185957441a020bdda1c</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/dda05b3992cc22778fc12d3c26cf302243d35214</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Juampi095/tercera-entrega-veterinaria-morales/commit/30491f0675d0e2527cf0838ed717d8252b23dfb6</loc>
+  <lastmod>2022-07-04T20:30:44+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+
+
+</urlset>
