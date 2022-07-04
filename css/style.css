@@ -55,11 +55,6 @@
   font-size: 25px;
   color: #366fb1; }
 
-.imagenInicio {
-  position: relative;
-  left: 60rem;
-  bottom: 3.5rem; }
-
 /*******SLIDER*******/
 .carousel-inner {
   width: 25%;
@@ -88,6 +83,15 @@
 .parrafoNosotros {
   max-width: 50vw;
   font-size: 18px; }
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 200; }
+
+.imagenes {
+  position: relative;
+  left: 60rem;
+  bottom: 3.5rem; }
 
 .verMas {
   padding: 1rem;

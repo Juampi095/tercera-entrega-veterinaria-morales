@@ -66,11 +66,8 @@
     color: #366fb1;
 }
 
-.imagenInicio {
-    position: relative;
-    left: 60rem;
-    bottom: 3.5rem;
-
+.imagenes{
+    @extend %imagenes;
 }
 
 /*******SLIDER*******/
