@@ -7,3 +7,6 @@ Y por último agregué una descripción para cada página:
 INICIO:"Somos una clínica veterinaria multidisciplinaria que ofrece diferentes especialidades, conformado por un staff de 15 médicos veterinarios"
 
 NOSOTROS:"Desde 2004, estamos al servicio de tus mascotas, contamos con la mejor tecnología de última generación"
+Agregué las paginas restantes (contacto, especialidades, examenes complementarios,servicios generales) y les añadí el contenido y las edité en sass, además las vinculé con import en el main de sass.
+También agregué agregué las carpetas con fotos para añadirlas en la página.
+Y por último agregué SEO y la descripción en cada una de las páginas añadidas.
