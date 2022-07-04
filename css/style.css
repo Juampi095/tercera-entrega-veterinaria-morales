@@ -84,10 +84,6 @@
   max-width: 50vw;
   font-size: 18px; }
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 200; }
-
 .imagenes {
   position: relative;
   left: 60rem;
@@ -124,3 +120,8 @@
 .btn2:hover {
   background-color: #dddadac9;
   color: #366fb1; }
+
+.servGrales {
+  font-size: 1.25rem;
+  font-weight: 300;
+  width: 50%; }
