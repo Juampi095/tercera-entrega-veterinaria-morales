@@ -58,27 +58,23 @@
             </div>
         </div>
     </nav>
-    <form action="#" method="post">
-        <label>Nombre</label>
-        <input type="text" placeholder="Nombre Completo" name="nombre-completo">
-        <label>Apellido</label>
-        <input type="text" placeholder="Apellido" name="apellido">
-        <label>Email</label>
-        <input type="email" placeholder="juanperez@gmail.com">
-        <!-- BR: Deja un espacio en la web, no tiene cierre -->
-        <br><br>
-        <label for="contrasena">Contraseña</label>
-        <input type="password" name="contraseña"  id="contraseña">
-        <br><br>
-        <label>
-            <input type="checkbox">
-            <span>Suscribite al Newsletter</span>
-        </label>
-        </select>
-
-        <input type="submit">
-       <!-- Get: Información no sensible Post: Información sensible (contraseña) -->
-
+    <!-- FORMULARIO CONTACTO -->
+    <form>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Correo Electrónico</label>
+            <input type="email" placeholder="juanperez@gmail.com" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            
+            <div id="emailHelp" class="form-text">No compartiremos  tu correo con nadie.</div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" placeholder="Contraseña" class="form-control" id="exampleInputPassword1">
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Suscribirme</label>
+        </div>
+        <button type="submit" class="btn2 btn-primary">Enviar</button>
     </form>
 
 </body>

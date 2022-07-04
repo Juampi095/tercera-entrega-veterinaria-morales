@@ -35,6 +35,10 @@
   background-color: #d87753c9 !important;
   transition: .3s; }
 
+.form-control {
+  margin: 0.5rem;
+  width: 40%; }
+
 .form-control:hover {
   background-color: #dddadac9;
   transform: scale(1.02);
@@ -93,3 +97,29 @@
   background-color: #366fb1;
   color: white;
   font-size: 12px; }
+
+.newsletter {
+  margin-top: 1rem;
+  margin: 1rem;
+  color: #366fb1; }
+
+.form-label {
+  margin: 1rem; }
+
+.form-text {
+  margin: 1rem; }
+
+.form-check-input {
+  margin: .3rem !important; }
+
+.btn2 {
+  background-color: #366fb1;
+  color: white;
+  border-color: white;
+  border-radius: 130px;
+  margin: .5rem;
+  padding: .5; }
+
+.btn2:hover {
+  background-color: #dddadac9;
+  color: #366fb1; }

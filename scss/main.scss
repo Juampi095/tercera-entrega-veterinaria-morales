@@ -43,7 +43,10 @@
     transition: .3s;
 
 }
-
+.form-control{
+    margin: 0.5rem;
+    width: 40%;
+}
 
 .form-control:hover {
     background-color: #dddadac9;
@@ -101,6 +104,7 @@
 
 //***SECCIONES****//
 @import './secciones/nosotros';
+@import'./secciones/contacto';
 
 
  
