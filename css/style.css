@@ -84,10 +84,19 @@
   max-width: 50vw;
   font-size: 18px; }
 
+.servGrales {
+  font-size: 1.25rem;
+  font-weight: 300; }
+
 .imagenes {
   position: relative;
   left: 60rem;
   bottom: 3.5rem; }
+
+.servGrales {
+  font-size: 1.25rem;
+  font-weight: 300;
+  width: 50%; }
 
 .verMas {
   padding: 1rem;
@@ -120,8 +129,3 @@
 .btn2:hover {
   background-color: #dddadac9;
   color: #366fb1; }
-
-.servGrales {
-  font-size: 1.25rem;
-  font-weight: 300;
-  width: 50%; }

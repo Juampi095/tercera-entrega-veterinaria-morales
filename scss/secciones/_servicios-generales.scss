@@ -1,8 +1,5 @@
 .servGrales{
-    font-size: 1.25rem;
-    font-weight: 300;
-    width: 50%
-    
+    @extend %parrafos;
 }
 .imagenes{
     @extend %imagenes;
